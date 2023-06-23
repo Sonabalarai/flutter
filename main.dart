@@ -1,10 +1,8 @@
 // import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-// import 'app.dart';
-import 'app/app.dart';
-// import 'dashboard/dashboard.dart';
+import 'app.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const App());
 }
